@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Juanze\source\repos\Coding series\Coding series\Source.cpp(148,17): warning C4129: ' ': secuencia de escape de carácter no reconocida
+C:\Users\Juanze\source\repos\Coding series\Coding series\Source.cpp(148,17): warning C4129: '/': secuencia de escape de carácter no reconocida
+C:\Users\Juanze\source\repos\Coding series\Coding series\Source.cpp(150,17): warning C4129: '_': secuencia de escape de carácter no reconocida
+C:\Users\Juanze\source\repos\Coding series\Coding series\Source.cpp(115,168): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  Generando código
+  1 of 203 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Coding series.vcxproj -> C:\Users\Juanze\source\repos\Coding series\Release\Coding series.exe
